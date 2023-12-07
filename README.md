@@ -6,4 +6,5 @@ To Install:
 2. run the following commands
 
 sudo chmod +x runme.sh
+
 sudo ./runme.sh
