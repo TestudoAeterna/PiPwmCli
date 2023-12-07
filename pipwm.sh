@@ -1,2 +1,2 @@
 #!/bin/bash
-python [PATH TO PYTHON FILE] $1 $2 $3
+python /usr/PiPwmCLI/PiPwmCLI.py $1 $2 $3
