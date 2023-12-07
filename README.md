@@ -8,3 +8,10 @@ To Install:
 sudo chmod +x runme.sh
 
 sudo ./runme.sh
+
+alias pipwm="/usr/bin/pipwm.sh"
+
+To use:
+
+The syntax is as follows:
+pipwm [pin] [duty cycle] [frequency]
